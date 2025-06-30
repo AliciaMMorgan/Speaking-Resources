@@ -42,7 +42,7 @@ _(Presented at multiple PMI Chapters)_
 
 ## 🧩 Connected Projects & Credentials
 
-- ✅ [Cross-Industry PM Playbook](../Cross-Industry-PM-Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook)  
+- ✅ [Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook)  
 - ✅ [Innovation in Action](../Innovation-in-Action)  
 - 🎓 PMP Certification, Agile Metrics, and Leadership in Ambiguity
 
