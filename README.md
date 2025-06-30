@@ -25,6 +25,7 @@ _(PMI Webinar — 20,000+ views, 5.4+ star rating)_
 
 ### Leading Innovation in Traditional Environments: Bridging Tradition and Agility  
 [Presented at multiple PMI Chapters-Q&A sample](https://youtube.com/shorts/SjvjoEjgp2I?si=6KgkjXZpYFKLx-qF)
+
 **Key Points:**  
 - How to implement Agile practices in high-governance orgs  
 - Case examples from the nonprofit and education sectors  
@@ -33,6 +34,7 @@ _(PMI Webinar — 20,000+ views, 5.4+ star rating)_
 ---
 
 ### Beyond Basic Strategic Power Skills: Building Cultures of Innovation  
+
 **Key Points:**  
 - Decision-making in complexity: balancing business acumen with adaptability  
 - Power skills for PMs navigating role expansion  
