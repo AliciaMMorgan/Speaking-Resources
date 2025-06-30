@@ -2,7 +2,7 @@
 
 Curated resources, summaries, and takeaways from my professional speaking engagements on innovation, project leadership, and transformation strategy.  
 
-[Book Me as Speaker or Keynote](https://youtu.be/hcSzo1ZPT14?si=r_7bBolUMl3rYjF4)
+[Book Alicia M Morgan as Speaker or Keynote](https://youtu.be/hcSzo1ZPT14?si=r_7bBolUMl3rYjF4)
 
 This space includes:
 - 📊 Talk decks or outlines (when publicly shareable)
@@ -24,7 +24,7 @@ _(PMI Webinar — 20,000+ views, 5.4+ star rating)_
 ---
 
 ### Leading Innovation in Traditional Environments: Bridging Tradition and Agility  
-_(Presented at multiple PMI Chapters)_  
+_[Presented at multiple PMI Chapters-Q&A sample](https://youtube.com/shorts/SjvjoEjgp2I?si=6KgkjXZpYFKLx-qF)
 **Key Points:**  
 - How to implement Agile practices in high-governance orgs  
 - Case examples from the nonprofit and education sectors  
@@ -63,7 +63,7 @@ _(Presented at multiple PMI Chapters)_
 - Navigating Cross-Sector Leadership: From Nonprofits to Enterprise  
 - Storytelling for Strategic Influence  
 
-> ✳️ *Want to bring one of these talks to your team, chapter, or community? Reach out via [LinkedIn](https://www.linkedin.com/in/aliciammorgan1/) or [My website](https://aliciammorgan.com/) 
+> ✳️ *Want to bring one of these talks to your team, chapter, or community? Reach out to Alicia M Morgan via [LinkedIn](https://www.linkedin.com/in/aliciammorgan1/) or [My website](https://aliciammorgan.com/) 
 
 ---
 
