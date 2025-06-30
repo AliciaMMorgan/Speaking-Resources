@@ -24,7 +24,7 @@ _(PMI Webinar — 20,000+ views, 5.4+ star rating)_
 ---
 
 ### Leading Innovation in Traditional Environments: Bridging Tradition and Agility  
-_[Presented at multiple PMI Chapters-Q&A sample](https://youtube.com/shorts/SjvjoEjgp2I?si=6KgkjXZpYFKLx-qF)
+[Presented at multiple PMI Chapters-Q&A sample](https://youtube.com/shorts/SjvjoEjgp2I?si=6KgkjXZpYFKLx-qF)
 **Key Points:**  
 - How to implement Agile practices in high-governance orgs  
 - Case examples from the nonprofit and education sectors  
