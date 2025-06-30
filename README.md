@@ -7,7 +7,7 @@ Curated resources, summaries, and takeaways from my professional speaking engage
 This space includes:
 - 📊 Talk decks or outlines (when publicly shareable)
 - 🧠 Key takeaways and insights for each topic
-- 🔗 Links to webinars or external speaker pages (if applicable)
+- 🔗 Links to webinars or external speaker pages 
 
 ---
 
@@ -15,7 +15,7 @@ This space includes:
 
 ### Empathetic Leadership: The Key to Effective Change Management  
 _(PMI Webinar — 20,000+ views, 5.4+ star rating)_  
-[Slides or Summary Link Placeholder]  
+[Webinar Link](https://www.projectmanagement.com/videos/877046/empathetic-leadership--a-key-approach-to-effective-change-management-#_) 
 **Key Points:**  
 - Emotional intelligence as a driver of sustainable change  
 - How empathy enhances stakeholder alignment in uncertainty  
@@ -42,7 +42,7 @@ _(Presented at multiple PMI Chapters)_
 
 ## 🧩 Connected Projects & Credentials
 
-- ✅ [Cross-Industry PM Playbook](../Cross-Industry-PM-Playbook)  
+- ✅ [Cross-Industry PM Playbook](../Cross-Industry-PM-Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook)  
 - ✅ [Innovation in Action](../Innovation-in-Action)  
 - 🎓 PMP Certification, Agile Metrics, and Leadership in Ambiguity
 
