@@ -43,7 +43,7 @@ _(Presented at multiple PMI Chapters)_
 ## 🧩 Connected Projects & Credentials
 
 - ✅ [Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook)  
-- ✅ [Innovation in Action](../Innovation-in-Action)  
+- ✅ [Innovation in Action](https://github.com/AliciaMMorgan/Innovation-In-Action)
 - 🎓 PMP Certification, Agile Metrics, and Leadership in Ambiguity
 
 ---
@@ -78,7 +78,7 @@ Explore visual content aligned with key speaking themes:
   Includes curated playlists and PMP-related content:
   - [Business Relationship Building](https://youtube.com/playlist?list=PL-_GQRkDTzvTko99wx-YoIzOBJ9iABgl6&si=hewo5JDrh3CCI0RO)
   - [Speaker Highlights](https://youtu.be/TB86yvj_oiU?si=Kwvq9UXuie2IpC5Q)
-  - [Do you need a PMP Certification](https://youtu.be/T44g5Qy8ubM?si=p-fT1z7k8cFQBX-0)
+  - [Do you need a PMP Certification?](https://youtu.be/T44g5Qy8ubM?si=p-fT1z7k8cFQBX-0)
 
 > 🔔 Subscribe to stay updated with talks, behind-the-scenes insights, and speaking recaps.
 
