@@ -15,7 +15,9 @@ This space includes:
 
 ### Empathetic Leadership: A Key Approach to Effective Change Management  
 _(PMI Webinar — 20,000+ views, 4+ star rating)_  
-[Webinar Link](https://www.projectmanagement.com/videos/877046/empathetic-leadership--a-key-approach-to-effective-change-management-#_) 
+[Webinar Link](https://www.projectmanagement.com/videos/877046/empathetic-leadership--a-key-approach-to-effective-change-
+management-#_) 
+
 **Key Points:**  
 - Emotional intelligence as a driver of sustainable change  
 - How empathy enhances stakeholder alignment in uncertainty  
