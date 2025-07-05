@@ -74,7 +74,7 @@ _(PMI Webinar — 20,000+ views, 4+ star rating)_
 
 Explore visual content aligned with key speaking themes:
 
-- ▶️ [Top 10 Lessons in Leading Innovation](https://youtu.be/5ce1o0z2TtA?si=ZHi9SKCju5y3zUd2)  
+- ▶️ [Top 10 Lessons in Leading Innovation]
   A dynamic summary of real-world innovation leadership lessons—spanning nonprofits, education, and enterprise transformation.
 
 - 🎥 [Full YouTube Channel](https://www.youtube.com/@AMMorgan/videos)  
