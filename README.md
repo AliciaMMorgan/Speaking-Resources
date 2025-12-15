@@ -1,6 +1,6 @@
 # 🎤 Speaking & Thought Leadership Portfolio
 
-Career resilience comes from curating diverse, cross-industry experiences that compound into authority and opportunity. This repository documents proven talks, workshops, and frameworks on innovation leadership, change management, and cross-sector project delivery—showcasing real-world impact while providing reusable resources for aspiring speakers and portfolio professionals building their own platforms.
+Career resilience comes from curating diverse, cross-industry experiences that compound into authority and opportunity. This repository documents proven talks, workshops, and frameworks on innovation leadership, change management, and cross-sector project delivery. It showcases real-world impact while providing reusable resources for aspiring speakers and portfolio professionals building their own platforms.
 
 Book Alicia M Morgan for keynotes, webinars, and executive sessions that translate complex transformation into clear, human-centered action.
 
