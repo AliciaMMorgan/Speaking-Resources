@@ -1,95 +1,148 @@
-# 🎤 Speaking Resources
+# 🎤 Speaking & Thought Leadership Portfolio
 
-Curated resources, summaries, and takeaways from my professional speaking engagements on innovation, project leadership, and transformation strategy.  
+Career resilience comes from curating diverse, cross-industry experiences that compound into authority and opportunity. This repository documents proven talks, workshops, and frameworks on innovation leadership, change management, and cross-sector project delivery—showcasing real-world impact while providing reusable resources for aspiring speakers and portfolio professionals building their own platforms.
 
-[Book Alicia M Morgan as Speaker or Keynote](https://youtu.be/hcSzo1ZPT14?si=r_7bBolUMl3rYjF4)
+Book Alicia M Morgan for keynotes, webinars, and executive sessions that translate complex transformation into clear, human-centered action.
 
-This space includes:
-- 📊 Talk decks or outlines (when publicly shareable)
-- 🧠 Key takeaways and insights for each topic
-- 🔗 Links to webinars or external speaker pages 
+[▶️ Book Alicia M Morgan as Speaker or Keynote](https://youtu.be/hcSzo1ZPT14?si=r_7bBolUMl3rYjF4)
 
----
+**What you’ll find:**
 
-## 🔹 Featured Talks & Topics
+- Signature talks with documented outcomes and speaker materials
+- Actionable frameworks tested across aerospace, nonprofit, education, and enterprise contexts
+- Direct links to recordings, presentation decks, and related GitHub repositories
 
-### Empathetic Leadership: A Key Approach to Effective Change Management  
-_(PMI Webinar — 20,000+ views, 4+ star rating)_  
-[Webinar Link](https://www.projectmanagement.com/videos/877046/empathetic-leadership--a-key-approach-to-effective-change-management-) 
+-----
 
-**Key Points:**  
-- Emotional intelligence as a driver of sustainable change  
-- How empathy enhances stakeholder alignment in uncertainty  
-- Practical tools for building trust across teams  
+## 🔹 Signature Talks & Key Topics
 
----
+### Empathetic Leadership: A Key Approach to Effective Change Management
 
-### Leading Innovation in Traditional Environments: Bridging Tradition and Agility  
-[Presented at multiple PMI Chapters-Q&A sample](https://youtube.com/shorts/SjvjoEjgp2I?si=6KgkjXZpYFKLx-qF)
+*(PMI webinar — 20,000+ views, 4+ star rating)*  
+[Watch the Webinar](https://www.projectmanagement.com/videos/877046/empathetic-leadership--a-key-approach-to-effective-change-management-)
 
-**Key Points:**  
-- How to implement Agile practices in high-governance orgs  
-- Case examples from the nonprofit and education sectors  
-- Shifting mindsets in legacy teams without creating friction  
+**What audiences gain:**
 
----
+- Practical tools to reduce resistance and accelerate adoption during organizational change
+- Ready-to-use scripts, diagnostic questions, and team rituals that build psychological safety under pressure
+- A framework for reading stakeholder concerns and responding with both clarity and compassion
 
-### Beyond Basic Strategic Power Skills: Building Cultures of Innovation  
+### Leading Innovation in Traditional Environments: Bridging Tradition and Agility
 
-**Key Points:**  
-- Decision-making in complexity: balancing business acumen with adaptability  
-- Power skills for PMs navigating role expansion  
-- Enabling team-led innovation through psychological safety  
+[Q&A Sample – PMI Chapters](https://youtube.com/shorts/SjvjoEjgp2I?si=6KgkjXZpYFKLx-qF)
 
----
+**What audiences gain:**
 
-## 🧩 Connected Projects & Credentials
+- Strategies for introducing agile practices inside high-governance or legacy organizations without triggering resistance
+- Case studies from nonprofit, education, and enterprise contexts showing how to scale from pilot to playbook
+- Language patterns for influencing executives and skeptics by connecting innovation to risk mitigation and measurable business value
+
+### Beyond Basic Strategic Power Skills: Building Cultures of Innovation
+
+*(Presented for PMI chapters and professional associations)*
+
+**What audiences gain:**
+
+- A reframing of “soft skills” as strategic capabilities for navigating complexity, visibility, and high-stakes decisions
+- Coaching tools that shift project leaders from task managers to innovation enablers
+- An actionable plan for embedding innovation behaviors within existing PMO and portfolio structures
+
+### Strategic Yet Agile: Leading with Innovation
+
+[Session Highlight – Agile & Innovation](https://www.youtube.com/watch?v=NyEBOVyj0ak)
+
+**What audiences gain:**
+
+- Methods for balancing long-term strategy with rapid experimentation in volatile environments
+- De-risking tactics using data, prototypes, and stakeholder co-creation
+- A personal roadmap for leading with curiosity, courage, and clarity in ambiguous conditions
+
+### Closing the Execution Gap: Bridging Knowledge, Implementation, and Trust
+
+[Watch the Talk](https://vimeo.com/1145389120/464a5e1dd7?share=copy&fl=sv&fe=ci)
+
+**What audiences gain:**
+
+- Root-cause analysis of why projects stall between strategy and delivery
+- Trust-building frameworks that align knowledge, execution, and stakeholder accountability
+- Practical tools for operationalizing plans in high-stakes, high-visibility environments
+
+-----
+
+## 🔁 Repeatable Workshop & Keynote Formats
+
+Delivered to PMI chapters, enterprises, universities, and professional associations as keynotes, webinars, or interactive workshops.
+
+- **Agility in Ambiguity: Leading with Structure *and* Experimentation**  
+  For leaders navigating unclear requirements, emerging AI capabilities, or rapid market shifts.
+- **Navigating Cross-Sector Leadership: From Nonprofits to Enterprise**  
+  Transferable power skills drawn from aerospace, nonprofit, education, and corporate experience.
+- **Storytelling for Strategic Influence**  
+  Transform data, dashboards, and lessons learned into narratives that drive executive action.
+- **EWTG 2025 – Leading Technology & Innovation in Traditional Environments**  
+  [Conference Session Materials](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation/blob/main/presentations/2025-11-EWTG-Conference/README.md)  
+  A playbook for Executive Women in Texas Government on driving AI adoption, innovation patterns, and PM discipline within public-sector contexts where governance, legacy systems, and stakeholder alignment are critical.
+
+-----
+
+## 🧩 Connected Resources & Credentials
+
+Grounded in cross-industry delivery as a PMP-certified innovation strategist with multi-million-dollar portfolio experience.
 
 - ✅ [Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook)  
-- ✅ [Innovation in Action](https://github.com/AliciaMMorgan/Innovation-In-Action)
-- 🎓 PMP Certification, Agile Metrics, and Leadership in Ambiguity
+  Templates, prompts, and reusable patterns for projects across sectors.
+- ✅ [Innovation in Action](https://github.com/AliciaMMorgan/Innovation-In-Action)  
+  Living repository of tools, experiments, and frameworks for modern project leadership.
+- 🎓 Professional Background
+  - PMP-certified with proven track record managing complex, cross-functional initiatives
+  - Recognized innovation advocate and Women in Technology honoree
 
----
+-----
 
-## 🛠️ Tools I Use in Workshops and Speaking
+## 🛠️ Facilitation Approach & Workshop Tools
 
-- Microsoft Teams / Zoom for facilitation  
-- Google Drive + OneDrive for collaboration  
-- Excel Dashboards, and Retrospective boards for team innovation sessions  
-- Storytelling templates and change leadership frameworks  
+Sessions blend strategic frameworks with hands-on exercises designed for immediate application.
 
----
+- **Virtual delivery:** Microsoft Teams / Zoom with interactive breakouts and collaborative activities
+- **Shared resources:** Google Drive + OneDrive for real-time co-creation and toolkit distribution
+- **Practical assets:** Excel dashboards, retrospective templates, innovation canvases, and storytelling frameworks teams can reuse immediately
 
-## 🔁 Upcoming or Repeatable Topics
+-----
 
-- Agility in Ambiguity: How to Lead with Structure *and* Experimentation  
-- Navigating Cross-Sector Leadership: From Nonprofits to Enterprise  
-- Storytelling for Strategic Influence  
+## 📺 Extended Learning & Multimedia
 
-> ✳️ *Want to bring one of these talks to your team, chapter, or community? Reach out to Alicia M Morgan via [LinkedIn](https://www.linkedin.com/in/aliciammorgan1/) or [My website](https://aliciammorgan.com/) 
+Continue the conversation through video content and curated playlists.
 
----
+- ▶️ [Top 10 Innovation Leadership Lessons](https://www.youtube.com/watch?v=JLhxMSryNho)  
+  Real-world wins, pivots, and AI-enabled transformations.
+- 🎥 Featured Playlists
+  - [Speaker Highlights](https://www.youtube.com/playlist?list=PL-_GQRkDTzvR-7zvTb1nPkSzCprW-AOH8)
+  - [Business Relationship Building](https://youtube.com/playlist?list=PL-_GQRkDTzvTko99wx-YoIzOBJ9iABgl6)
+  - [Do You Need a PMP?](https://youtu.be/T44g5Qy8ubM)
 
-## 📺 YouTube & Multimedia Resources
+> 🔔 Subscribe: [YouTube Channel](https://www.youtube.com/@AMMorgan/videos)
 
-Explore visual content aligned with key speaking themes:
+-----
 
-- ▶️ [Top 10 Lessons in Leading Innovation]
-  A dynamic summary of real-world innovation leadership lessons—spanning nonprofits, education, and enterprise transformation.
+## Why Document This as a Portfolio Asset
 
-- 🎥 [Full YouTube Channel](https://www.youtube.com/@AMMorgan/videos)  
-  Includes curated playlists and PMP-related content:
-  - [Business Relationship Building](https://youtube.com/playlist?list=PL-_GQRkDTzvTko99wx-YoIzOBJ9iABgl6&si=hewo5JDrh3CCI0RO)
-  - [Speaker Highlights](https://youtu.be/TB86yvj_oiU?si=Kwvq9UXuie2IpC5Q)
-  - [Do you need a PMP Certification?](https://youtu.be/T44g5Qy8ubM?si=p-fT1z7k8cFQBX-0)
+This repository serves dual purposes: demonstrating authority while empowering others to build their own speaking platforms.
 
-> 🔔 Subscribe to stay updated with talks, behind-the-scenes insights, and speaking recaps.
->
-> ⸻
+- **Evidence over claims:** Documents cross-sector expertise through recorded talks, audience feedback, and reusable frameworks—providing tangible proof for clients, employers, and collaborators.
+- **Addresses real problems:** Tackles recurring leadership challenges like execution gaps and change resistance with tested solutions others can adapt to their contexts.
+- **Models the path:** Shows mid-career professionals how to blend consulting, speaking, and thought leadership into a resilient, values-aligned portfolio career with multiple income streams and professional freedom.
 
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made.  
-  Suggested attribution:  
-  _"Based on work by Alicia M. Morgan – [github.com/AliciaMMorgan](https://github.com/AliciaMMorgan)"_
+-----
 
-For full license details, visit [creativecommons.org/licenses/by/4.0](https://creativecommons.org/licenses/by/4.0/).
+## 🔗 Connect & Book
 
+- [LinkedIn](https://www.linkedin.com/in/aliciammorgan1/)
+- [aliciammorgan.com](https://aliciammorgan.com)
+
+> ✳️ Available for PMI chapters, professional associations, enterprise teams, and academic institutions seeking practical transformation content.
+
+-----
+
+**Attribution & License**  
+When adapting materials, please credit: *“Based on work by Alicia M. Morgan – [github.com/AliciaMMorgan](https://github.com/AliciaMMorgan)”*  
+Licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
