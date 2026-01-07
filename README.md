@@ -22,7 +22,7 @@ Interactive tool showcases for speaking keynotes and workshops.
 
 [![PM Risk Assessor Demo](https://img.youtube.com/vi/Mr64CaQEiuU/hqdefault.jpg)](https://youtu.be/Mr64CaQEiuU)
 
-**PM Risk Assessor**: NIST-aligned risk evaluator demo for enterprise PMs transitioning to agentic AI. Ties to cross-industry playbook. [Responsible AI Usage](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/responsible-ai-usage.md)[memory:3][web:17]
+**PM Risk Assessor**: NIST-aligned risk evaluator demo for enterprise PMs transitioning to agentic AI. Ties to cross-industry playbook. [Responsible AI Usage](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/responsible-ai-usage.md)
 
 
 ### Empathetic Leadership: A Key Approach to Effective Change Management
