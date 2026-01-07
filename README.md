@@ -1,10 +1,9 @@
 # 🎤 Speaking & Thought Leadership Portfolio
 
-[![PMP](https://img.shields.io/badge/PMP-Certified-blue?style=for-the-badge&logo=project-management)](https://www.pmi.org/certifications/project-management-pmp)
+[![PMP](https://img.shields.io/badge/PMP-Certified-blue?style=for-the-badge&logo=project-management)](https://www.credly.com/badges/534bd0b7-dd87-4af2-bfe6-c062bfab8d4b)
 [![TEDx](https://img.shields.io/badge/TEDx-Plano-red?style=for-the-badge&logo=ted)](https://www.youtube.com/watch?v=6ayGGbMnvI8)
-[![PMI](https://img.shields.io/badge/PMI-20K%2B_views-brightgreen?style=for-the-badge&logo=project-management)](https://www.projectmanagement.com/videos/877046)
+[![PMI Webinar](https://img.shields.io/badge/PMI-20K%2B_views-brightgreen?style=for-the-badge&logo=project-management)](https://aliciammorgan.com/empathetic-leadership-and-change-management-webinar/)
 [![YouTube](https://img.shields.io/badge/YouTube-@AMMorgan-ff0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@AMMorgan)
-[![License](https://img.shields.io/github/license/YOURUSERNAME/speaking-portfolio?color=green&style=for-the-badge)](https://creativecommons.org/licenses/by/4.0/)
 
 
 Career resilience comes from curating diverse, cross-industry experiences that compound into authority and opportunity. This repository documents proven talks, workshops, and frameworks on innovation leadership, change management, and cross-sector project delivery. It showcases real-world impact while providing reusable resources for aspiring speakers and portfolio professionals building their own platforms.
