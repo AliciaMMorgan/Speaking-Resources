@@ -5,8 +5,6 @@
 [![PMI Webinar](https://img.shields.io/badge/PMI-20K%2B_views-brightgreen?style=for-the-badge&logo=project-management)](https://www.projectmanagement.com/videos/877046/empathetic-leadership--a-key-approach-to-effective-change-management-)
 [![YouTube](https://img.shields.io/badge/YouTube-@AMMorgan-ff0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@AMMorgan)
 
-
-
 Career resilience comes from curating diverse, cross-industry experiences that compound into authority and opportunity. This repository documents proven talks, workshops, and frameworks on innovation leadership, change management, and cross-sector project delivery. It showcases real-world impact while providing reusable resources for aspiring speakers and portfolio professionals building their own platforms.
 
 Book Alicia M Morgan for keynotes, webinars, and executive sessions that translate complex transformation into clear, human-centered action.
@@ -15,9 +13,9 @@ Book Alicia M Morgan for keynotes, webinars, and executive sessions that transla
 
 **What you’ll find:**
 
-- Signature talks with documented outcomes and speaker materials
-- Actionable frameworks tested across aerospace, nonprofit, education, and enterprise contexts
-- Direct links to recordings, presentation decks, and related GitHub repositories
+- Signature talks with documented outcomes and speaker materials  
+- Actionable frameworks tested across aerospace, nonprofit, education, and enterprise contexts  
+- Direct links to recordings, presentation decks, and related GitHub repositories  
 
 -----
 
@@ -31,7 +29,6 @@ Interactive tool showcases for speaking keynotes and workshops.
 
 **PM Risk Assessor**: NIST-aligned risk evaluator demo for enterprise PMs transitioning to agentic AI. Ties to cross-industry playbook. [Responsible AI Usage](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/responsible-ai-usage.md)
 
-
 ### Empathetic Leadership: A Key Approach to Effective Change Management
 
 *(PMI webinar — 20,000+ views, 4+ star rating)*  
@@ -39,9 +36,9 @@ Interactive tool showcases for speaking keynotes and workshops.
 
 **What audiences gain:**
 
-- Practical tools to reduce resistance and accelerate adoption during organizational change
-- Ready-to-use scripts, diagnostic questions, and team rituals that build psychological safety under pressure
-- A framework for reading stakeholder concerns and responding with both clarity and compassion
+- Practical tools to reduce resistance and accelerate adoption during organizational change  
+- Ready-to-use scripts, diagnostic questions, and team rituals that build psychological safety under pressure  
+- A framework for reading stakeholder concerns and responding with both clarity and compassion  
 
 ### Leading Innovation in Traditional Environments: Bridging Tradition and Agility
 
@@ -49,9 +46,9 @@ Interactive tool showcases for speaking keynotes and workshops.
 
 **What audiences gain:**
 
-- Strategies for introducing agile practices inside high-governance or legacy organizations without triggering resistance
-- Case studies from nonprofit, education, and enterprise contexts showing how to scale from pilot to playbook
-- Language patterns for influencing executives and skeptics by connecting innovation to risk mitigation and measurable business value
+- Strategies for introducing agile practices inside high-governance or legacy organizations without triggering resistance  
+- Case studies from nonprofit, education, and enterprise contexts showing how to scale from pilot to playbook  
+- Language patterns for influencing executives and skeptics by connecting innovation to risk mitigation and measurable business value  
 
 ### Beyond Basic Strategic Power Skills: Building Cultures of Innovation
 
@@ -59,9 +56,9 @@ Interactive tool showcases for speaking keynotes and workshops.
 
 **What audiences gain:**
 
-- A reframing of “soft skills” as strategic capabilities for navigating complexity, visibility, and high-stakes decisions
-- Coaching tools that shift project leaders from task managers to innovation enablers
-- An actionable plan for embedding innovation behaviors within existing PMO and portfolio structures
+- A reframing of “soft skills” as strategic capabilities for navigating complexity, visibility, and high-stakes decisions  
+- Coaching tools that shift project leaders from task managers to innovation enablers  
+- An actionable plan for embedding innovation behaviors within existing PMO and portfolio structures  
 
 ### Strategic Yet Agile: Leading with Innovation
 
@@ -69,9 +66,9 @@ Interactive tool showcases for speaking keynotes and workshops.
 
 **What audiences gain:**
 
-- Methods for balancing long-term strategy with rapid experimentation in volatile environments
-- De-risking tactics using data, prototypes, and stakeholder co-creation
-- A personal roadmap for leading with curiosity, courage, and clarity in ambiguous conditions
+- Methods for balancing long-term strategy with rapid experimentation in volatile environments  
+- De-risking tactics using data, prototypes, and stakeholder co-creation  
+- A personal roadmap for leading with curiosity, courage, and clarity in ambiguous conditions  
 
 ### Closing the Execution Gap: Bridging Knowledge, Implementation, and Trust
 
@@ -79,9 +76,9 @@ Interactive tool showcases for speaking keynotes and workshops.
 
 **What audiences gain:**
 
-- Root-cause analysis of why projects stall between strategy and delivery
-- Trust-building frameworks that align knowledge, execution, and stakeholder accountability
-- Practical tools for operationalizing plans in high-stakes, high-visibility environments
+- Root-cause analysis of why projects stall between strategy and delivery  
+- Trust-building frameworks that align knowledge, execution, and stakeholder accountability  
+- Practical tools for operationalizing plans in high-stakes, high-visibility environments  
 
 -----
 
@@ -90,14 +87,10 @@ Interactive tool showcases for speaking keynotes and workshops.
 Delivered to PMI chapters, enterprises, universities, and professional associations as keynotes, webinars, or interactive workshops.
 
 - **Agility in Ambiguity: Leading with Structure *and* Experimentation**  
-  For leaders navigating unclear requirements, emerging AI capabilities, or rapid market shifts.
 - **Navigating Cross-Sector Leadership: From Nonprofits to Enterprise**  
-  Transferable power skills drawn from aerospace, nonprofit, education, and corporate experience.
 - **Storytelling for Strategic Influence**  
-  Transform data, dashboards, and lessons learned into narratives that drive executive action.
 - **EWTG 2025 – Leading Technology & Innovation in Traditional Environments**  
-  [Conference Session Materials](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation/blob/main/presentations/2025-11-EWTG-Conference/README.md)  
-  A playbook for Executive Women in Texas Government on driving AI adoption, innovation patterns, and PM discipline within public-sector contexts where governance, legacy systems, and stakeholder alignment are critical.
+  [Conference Session Materials](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation/blob/main/presentations/2025-11-EWTG-Conference/README.md)
 
 -----
 
@@ -106,12 +99,7 @@ Delivered to PMI chapters, enterprises, universities, and professional associati
 Grounded in cross-industry delivery as a PMP-certified innovation strategist with multi-million-dollar portfolio experience.
 
 - ✅ [Cross-Industry PM Playbook](https://github.com/AliciaMMorgan/cross-industry-pm-playbook)  
-  Templates, prompts, and reusable patterns for projects across sectors.
-- ✅ [Innovation in Action](https://github.com/AliciaMMorgan/Innovation-In-Action)  
-  Living repository of tools, experiments, and frameworks for modern project leadership.
-- 🎓 Professional Background
-  - PMP-certified with proven track record managing complex, cross-functional initiatives
-  - Recognized innovation advocate and Women in Technology honoree
+- ✅ [Innovation in Action](https://github.com/AliciaMMorgan/Innovation-In-Action)
 
 -----
 
@@ -119,9 +107,45 @@ Grounded in cross-industry delivery as a PMP-certified innovation strategist wit
 
 Sessions blend strategic frameworks with hands-on exercises designed for immediate application.
 
-- **Virtual delivery:** Microsoft Teams / Zoom with interactive breakouts and collaborative activities
-- **Shared resources:** Google Drive + OneDrive for real-time co-creation and toolkit distribution
-- **Practical assets:** Excel dashboards, retrospective templates, innovation canvases, and storytelling frameworks teams can reuse immediately
+- **Virtual delivery:** Microsoft Teams / Zoom with interactive breakouts and collaborative activities  
+- **Shared resources:** Google Drive + OneDrive for real-time co-creation and toolkit distribution  
+- **Practical assets:** Excel dashboards, retrospective templates, innovation canvases, and storytelling frameworks teams can reuse immediately  
+
+-----
+
+## 🎙️ Speaker Practice & Delivery Environment
+
+Strong speaking is built the same way strong project execution is built: through deliberate practice, feedback loops, and environment design.
+
+This portfolio documents finished talks. Behind each one is a repeatable practice system that others can adopt.
+
+**Practice loops**
+
+- Take improv or facilitation-based classes to build presence, responsiveness, and audience connection  
+- Rehearse talks aloud, not silently, to refine pacing and tone  
+- Practice modifying content in real time based on audience energy and pre-event context  
+
+**Self-recording as feedback**
+
+- Record every talk, virtual or in-person  
+- Use a phone, tablet, or laptop camera if no professional recording is available  
+- Capture short rehearsal clips to observe posture, movement, and vocal rhythm  
+- Take in-motion photos during sessions to study stage presence and engagement  
+
+**Build a speaking archive**
+
+- Save recordings over time to track growth and pattern improvements  
+- Review sessions before repeat engagements to refine delivery  
+- Extract highlight clips for future portfolios and proposals  
+
+**Tool ecosystems**
+
+- Presentation building and rehearsal supported in Microsoft environments (PowerPoint, Copilot, Presenter Coach)  
+- Collaborative content development in Google Workspace when working with education or community partners  
+- AI environments used for refining narrative, flow, and audience framing before live delivery  
+
+The goal is not perfection.  
+The goal is visible progress, real feedback, and adaptive delivery.
 
 -----
 
@@ -130,10 +154,9 @@ Sessions blend strategic frameworks with hands-on exercises designed for immedia
 Continue the conversation through video content and curated playlists.
 
 - ▶️ [Top 10 Innovation Leadership Lessons](https://www.youtube.com/watch?v=JLhxMSryNho)  
-  Real-world wins, pivots, and AI-enabled transformations.
-- 🎥 Featured Playlists
-  - [Speaker Highlights](https://www.youtube.com/playlist?list=PL-_GQRkDTzvR-7zvTb1nPkSzCprW-AOH8)
-  - [Business Relationship Building](https://youtube.com/playlist?list=PL-_GQRkDTzvTko99wx-YoIzOBJ9iABgl6)
+- 🎥 Featured Playlists  
+  - [Speaker Highlights](https://www.youtube.com/playlist?list=PL-_GQRkDTzvR-7zvTb1nPkSzCprW-AOH8)  
+  - [Business Relationship Building](https://youtube.com/playlist?list=PL-_GQRkDTzvTko99wx-YoIzOBJ9iABgl6)  
   - [Do You Need a PMP?](https://youtu.be/T44g5Qy8ubM)
 
 > 🔔 Subscribe: [YouTube Channel](https://www.youtube.com/@AMMorgan/videos)
@@ -144,15 +167,15 @@ Continue the conversation through video content and curated playlists.
 
 This repository serves dual purposes: demonstrating authority while empowering others to build their own speaking platforms.
 
-- **Evidence over claims:** Documents cross-sector expertise through recorded talks, audience feedback, and reusable frameworks—providing tangible proof for clients, employers, and collaborators.
-- **Addresses real problems:** Tackles recurring leadership challenges like execution gaps and change resistance with tested solutions others can adapt to their contexts.
-- **Models the path:** Shows mid-career professionals how to blend consulting, speaking, and thought leadership into a resilient, values-aligned portfolio career with multiple income streams and professional freedom.
+- **Evidence over claims:** Documents cross-sector expertise through recorded talks, audience feedback, and reusable frameworks  
+- **Addresses real problems:** Tackles recurring leadership challenges with tested solutions others can adapt  
+- **Models the path:** Shows professionals how to blend speaking, consulting, and thought leadership into resilient portfolio careers  
 
 -----
 
 ## 🔗 Connect & Book
 
-- [LinkedIn](https://www.linkedin.com/in/aliciammorgan1/)
+- [LinkedIn](https://www.linkedin.com/in/aliciammorgan1/)  
 - [aliciammorgan.com](https://aliciammorgan.com)
 
 > ✳️ Available for PMI chapters, professional associations, enterprise teams, and academic institutions seeking practical transformation content.
@@ -160,5 +183,6 @@ This repository serves dual purposes: demonstrating authority while empowering o
 -----
 
 **Attribution & License**  
-When adapting materials, please credit: *“Based on work by Alicia M. Morgan – [github.com/AliciaMMorgan](https://github.com/AliciaMMorgan)”*  
-Licensed under [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/)
+When adapting materials, please credit:  
+*“Based on work by Alicia M. Morgan – github.com/AliciaMMorgan”*  
+Licensed under Creative Commons Attribution 4.0
