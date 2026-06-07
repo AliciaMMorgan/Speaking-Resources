@@ -2,13 +2,6 @@
 
 [![PMP](https://img.shields.io/badge/PMP-Certified-blue?style=for-the-badge&logo=project-management)](https://www.credly.com/badges/534bd0b7-dd87-4af2-bfe6-c062bfab8d4b)
 [![TEDx](https://img.shields.io/badge/TEDx-Plano-red?style=for-the-badge&logo=ted)](https://www.youtube.com/watch?v=6ayGGbMnvI8)
-[![UT Dallas Project Management Symposium Panelist]
--Job Ready Project Managers: Navigating Career Transitions in a Multigenerational Workplace and Challenging Job Market
--Panel: Frank Saladis, Anna Ladipo, Sunil Kumar Suvvari & Alicia Morgan
-Rm: Davidson Auditorium
--Abstract:
-This panel brings together professionals from Boomer, Gen X, and Gen Z generations to explore how project managers can remain job-ready and resilient while navigating career transitions—including those driven by layoffs, restructuring, economic shifts, and industry disruption. Today’s job market has created uncertainty for many professionals who are actively job searching, considering a career pivot, entering the field after graduation, or re-entering the workforce after a gap. This session aims to provide realistic, actionable, and cross-generational strategies for staying employable, competitive, and confident during transition.
-[Watch Clip Here]([https://img.shields.io/badge/PMI-20K%2B_views-brightgreen?style=for-the-badge&logo=project-management](https://youtube.com/shorts/VKMFqS6CbjY?si=n50aWpYxkPP-Pygp))]
 [![PMI Webinar](https://img.shields.io/badge/PMI-20K%2B_views-brightgreen?style=for-the-badge&logo=project-management)](https://www.projectmanagement.com/videos/877046/empathetic-leadership--a-key-approach-to-effective-change-management-)
 [![YouTube](https://img.shields.io/badge/YouTube-@AMMorgan-ff0000?style=for-the-badge&logo=youtube)](https://www.youtube.com/@AMMorgan)
 
@@ -28,6 +21,25 @@ Book Alicia M Morgan for keynotes, webinars, and executive sessions that transla
 
 ## 🔹 Signature Talks & Key Topics
 
+### UT Dallas Project Management Symposium (Panelist) — 2026
+
+**Session:** Job-Ready Project Managers: Navigating Career Transitions in a Multigenerational Workplace and Challenging Job Market  
+**Panelists:** Frank Saladis, Anna Ladipo, Sunil Kumar Suvvari, Alicia M. Morgan  
+**Location:** Davidson Auditorium, Naveen Jindal School of Management (JSOM), UT Dallas  
+
+**Abstract:**  
+This panel brings together professionals from Boomer, Gen X, and Gen Z generations to explore how project managers can remain job-ready and resilient while navigating career transitions—including those driven by layoffs, restructuring, economic shifts, and industry disruption. Today’s job market has created uncertainty for many professionals who are actively job searching, considering a career pivot, entering the field after graduation, or re-entering the workforce after a gap. This session aims to provide realistic, actionable, and cross-generational strategies for staying employable, competitive, and confident during transition.
+
+**What audiences gained:**
+
+- Cross-generational strategies for maintaining career resilience in uncertain markets  
+- Practical guidance for job seekers, career pivoters, and early-career professionals  
+- Real-world perspectives on staying competitive and confident during transition  
+
+[Watch Highlight Clip](https://youtube.com/shorts/VKMFqS6CbjY?si=n50aWpYxkPP-Pygp)
+
+-----
+
 ## Live Demos
 
 Interactive tool showcases for speaking keynotes and workshops.
@@ -35,6 +47,8 @@ Interactive tool showcases for speaking keynotes and workshops.
 [![PM Risk Assessor Demo](https://img.youtube.com/vi/Mr64CaQEiuU/hqdefault.jpg)](https://youtu.be/Mr64CaQEiuU)
 
 **PM Risk Assessor**: NIST-aligned risk evaluator demo for enterprise PMs transitioning to agentic AI. Ties to cross-industry playbook. [Responsible AI Usage](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/responsible-ai-usage.md)
+
+-----
 
 ### Empathetic Leadership: A Key Approach to Effective Change Management
 
@@ -193,3 +207,4 @@ This repository serves dual purposes: demonstrating authority while empowering o
 When adapting materials, please credit:  
 *“Based on work by Alicia M. Morgan – github.com/AliciaMMorgan”*  
 Licensed under Creative Commons Attribution 4.0
+
