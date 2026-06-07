@@ -110,7 +110,7 @@ Delivered to PMI chapters, enterprises, universities, and professional associati
 - **Agility in Ambiguity: Leading with Structure *and* Experimentation**  
 - **Navigating Cross-Sector Leadership: From Nonprofits to Enterprise**  
 - **Storytelling for Strategic Influence**  
-- **EWTG 2025 – Leading Technology & Innovation in Traditional Environments**  
+- **EWTG 2025 Technology Series Presentation sponsored by IBM– Leading Technology & Innovation in Traditional Environments**  
   [Conference Session Materials](https://github.com/AliciaMMorgan/cross-industry-pm-playbook-ai-transformation/blob/main/presentations/2025-11-EWTG-Conference/README.md)
 
 -----
