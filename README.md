@@ -37,6 +37,10 @@ This panel brings together professionals from Boomer, Gen X, and Gen Z generatio
 - Real-world perspectives on staying competitive and confident during transition  
 
 [Watch Highlight Clip](https://youtube.com/shorts/VKMFqS6CbjY?si=n50aWpYxkPP-Pygp)
+[UT Dallas Project Management Symposium Link]
+(https://jindal.utdallas.edu/project-management-symposium/presenters/#day1-245pm)
+[Linkedin Post Recap]
+(https://www.linkedin.com/posts/ut-dallas-executive-education_navigating-career-transitions-in-a-multigenerational-activity-7465943483975925760-hXfr?utm_medium=ios_app&rcm=ACoAAABPGXQBtGipWb1QibPB8WA1RxQFkcceROg&utm_source=social_share_video_v2&utm_campaign=copy_link)
 
 -----
 
