@@ -1,6 +1,6 @@
 # 🎤 Speaking & Thought Leadership Portfolio
 
-[![PMP](https://img.shields.io/badge/PMP-Certified-blue?style=for-the-badge&logo=project-management)](https://www.credly.com/badges/534bd0b7-dd87-4af2-bfe6-c062bfab8d4b)
+[![PMP Certified](https://img.shields.io/badge/PMP-Certified-blue?logo=pmi&logoColor=white)](https://www.credly.com/badges/534bd0b7-dd87-4af2-bfe6-c062bfab8d4b/linked_in_profile)
 [![HubSpot Digital Marketing Certified](https://img.shields.io/badge/HubSpot-Digital_Marketing_Certified-orange?logo=hubspot&logoColor=white)](https://app-na2.hubspot.com/academy/achievements/5b4p7p8r/en/1/alicia-morgan/digital-marketing)
 [![TEDx](https://img.shields.io/badge/TEDx-Plano-red?style=for-the-badge&logo=ted)](https://www.youtube.com/watch?v=6ayGGbMnvI8)
 [![PMI Webinar](https://img.shields.io/badge/PMI-20K%2B_views-brightgreen?style=for-the-badge&logo=project-management)](https://www.projectmanagement.com/videos/877046/empathetic-leadership--a-key-approach-to-effective-change-management-)
