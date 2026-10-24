@@ -43,28 +43,6 @@ This panel brings together professionals from Boomer, Gen X, and Gen Z generatio
 
 [Linkedin Post Recap](https://www.linkedin.com/posts/ut-dallas-executive-education_navigating-career-transitions-in-a-multigenerational-activity-7465943483975925760-hXfr?utm_medium=ios_app&rcm=ACoAAABPGXQBtGipWb1QibPB8WA1RxQFkcceROg&utm_source=social_share_video_v2&utm_campaign=copy_link)
 
------
-
-## Live Demos
-
-Interactive tool showcases for speaking keynotes and workshops.
-
-[![PM Risk Assessor Demo](https://img.youtube.com/vi/Mr64CaQEiuU/hqdefault.jpg)](https://youtu.be/Mr64CaQEiuU)
-
-**PM Risk Assessor**: NIST-aligned risk evaluator demo for enterprise PMs transitioning to agentic AI. Ties to cross-industry playbook. [Responsible AI Usage](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/responsible-ai-usage.md)
-
------
-
-### Empathetic Leadership: A Key Approach to Effective Change Management
-
-*(PMI webinar — 20,000+ views, 4+ star rating)*  
-[Watch the Webinar](https://www.projectmanagement.com/videos/877046/empathetic-leadership--a-key-approach-to-effective-change-management-)
-
-**What audiences gain:**
-
-- Practical tools to reduce resistance and accelerate adoption during organizational change  
-- Ready-to-use scripts, diagnostic questions, and team rituals that build psychological safety under pressure  
-- A framework for reading stakeholder concerns and responding with both clarity and compassion
 
 ### AI for Everyone: Turning Intelligence Into Inclusion
 
@@ -91,6 +69,29 @@ Interactive tool showcases for speaking keynotes and workshops.
 > "The session provided practical guidance for ensuring AI is used thoughtfully and in alignment with best practices within professional environments."
 >
 > — Emerson Workshop Participant
+
+-----
+
+## Live Demos
+
+Interactive tool showcases for speaking keynotes and workshops.
+
+[![PM Risk Assessor Demo](https://img.youtube.com/vi/Mr64CaQEiuU/hqdefault.jpg)](https://youtu.be/Mr64CaQEiuU)
+
+**PM Risk Assessor**: NIST-aligned risk evaluator demo for enterprise PMs transitioning to agentic AI. Ties to cross-industry playbook. [Responsible AI Usage](https://github.com/AliciaMMorgan/Innovation-In-Action/blob/main/responsible-ai-usage.md)
+
+-----
+
+### Empathetic Leadership: A Key Approach to Effective Change Management
+
+*(PMI webinar — 20,000+ views, 4+ star rating)*  
+[Watch the Webinar](https://www.projectmanagement.com/videos/877046/empathetic-leadership--a-key-approach-to-effective-change-management-)
+
+**What audiences gain:**
+
+- Practical tools to reduce resistance and accelerate adoption during organizational change  
+- Ready-to-use scripts, diagnostic questions, and team rituals that build psychological safety under pressure  
+- A framework for reading stakeholder concerns and responding with both clarity and compassion
 
 
 ### Leading Innovation in Traditional Environments: Bridging Tradition and Agility
