@@ -44,32 +44,6 @@ This panel brings together professionals from Boomer, Gen X, and Gen Z generatio
 [Linkedin Post Recap](https://www.linkedin.com/posts/ut-dallas-executive-education_navigating-career-transitions-in-a-multigenerational-activity-7465943483975925760-hXfr?utm_medium=ios_app&rcm=ACoAAABPGXQBtGipWb1QibPB8WA1RxQFkcceROg&utm_source=social_share_video_v2&utm_campaign=copy_link)
 
 
-### AI for Everyone: Turning Intelligence Into Inclusion
-
-*(Enterprise AI Adoption Workshop | Emerson)*
-
-▶️ Click image to watch discussion highlights
-
-[![How to Lead Enterprise AI Adoption](https://img.youtube.com/vi/-t189rVblPY/hqdefault.jpg)](https://youtu.be/-t189rVblPY)
-
-**What audiences gained:**
-
-- Practical approaches for responsible AI adoption in professional environments
-- Greater confidence evaluating AI-generated outputs and recommendations
-- Strategies for building trust, governance, and workforce readiness
-- Accessibility and inclusion considerations that strengthen adoption outcomes
-- Techniques for using AI to improve communication, presentations, and knowledge sharing
-
-**Participant feedback:**
-
-> "It was a great presentation, very engaging and informative. I learned several useful tips on how to leverage AI features for practicing presentations and receiving feedback to improve delivery and effectiveness."
->
-> — Emerson Workshop Participant
-
-> "The session provided practical guidance for ensuring AI is used thoughtfully and in alignment with best practices within professional environments."
->
-> — Emerson Workshop Participant
-
 -----
 
 ## Live Demos
@@ -92,6 +66,32 @@ Interactive tool showcases for speaking keynotes and workshops.
 - Practical tools to reduce resistance and accelerate adoption during organizational change  
 - Ready-to-use scripts, diagnostic questions, and team rituals that build psychological safety under pressure  
 - A framework for reading stakeholder concerns and responding with both clarity and compassion
+
+### AI for Everyone: Turning Intelligence Into Inclusion
+
+*(Enterprise AI Adoption Workshop | Emerson Process Management Regulator Technologies)*
+
+▶️ Click image to watch discussion highlights
+
+[![How to Lead Enterprise AI Adoption](https://img.youtube.com/vi/-t189rVblPY/hqdefault.jpg)](https://youtu.be/-t189rVblPY)
+
+**What audiences gained:**
+
+- Practical approaches for responsible AI adoption in professional environments
+- Greater confidence evaluating AI-generated outputs and recommendations
+- Strategies for building trust, governance, and workforce readiness
+- Accessibility and inclusion considerations that strengthen adoption outcomes
+- Techniques for using AI to improve communication, presentations, and knowledge sharing
+
+**Participant feedback:**
+
+> "It was a great presentation, very engaging and informative. I learned several useful tips on how to leverage AI features for practicing presentations and receiving feedback to improve delivery and effectiveness."
+>
+> — Emerson Workshop Participant
+
+> "The session provided practical guidance for ensuring AI is used thoughtfully and in alignment with best practices within professional environments."
+>
+> — Emerson Workshop Participant
 
 
 ### Leading Innovation in Traditional Environments: Bridging Tradition and Agility
