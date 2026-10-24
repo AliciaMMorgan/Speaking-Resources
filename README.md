@@ -89,6 +89,7 @@ Interactive tool showcases for speaking keynotes and workshops.
   Feedback from ProjectManagement.com webinar participants
 </p>
 
+
 ### AI for Everyone: Turning Intelligence Into Inclusion
 
 *(Enterprise AI Adoption Workshop | Emerson Process Management Regulator Technologies)*
