@@ -67,6 +67,28 @@ Interactive tool showcases for speaking keynotes and workshops.
 - Ready-to-use scripts, diagnostic questions, and team rituals that build psychological safety under pressure  
 - A framework for reading stakeholder concerns and responding with both clarity and compassion
 
+<h2>Participant Feedback</h2>
+
+<div class="quote-grid">
+
+  <blockquote>
+    “It was great to hear the different ways you have navigated getting reluctant stakeholders on board. Parking lots are something I often use to help keep our groups on track and for future projects.”
+  </blockquote>
+
+  <blockquote>
+    “This was fantastic because it applies to all of us regardless of the existing culture we operate in.”
+  </blockquote>
+
+  <blockquote>
+    “Nice concepts of empathetic leadership and change management. Thank you.”
+  </blockquote>
+
+</div>
+
+<p class="source">
+  Feedback from ProjectManagement.com webinar participants
+</p>
+
 ### AI for Everyone: Turning Intelligence Into Inclusion
 
 *(Enterprise AI Adoption Workshop | Emerson Process Management Regulator Technologies)*
